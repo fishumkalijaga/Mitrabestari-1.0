@@ -1,0 +1,14 @@
+{
+  "name": "Workshop Article Studio — @ramakertamukti Labs",
+  "short_name": "Article Studio",
+  "description": "Panduan penulisan artikel ilmiah berbasis bukti dari research gap hingga reviewer response.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f6fa",
+  "theme_color": "#17233f",
+  "icons": [
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
